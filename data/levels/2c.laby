@@ -35,7 +35,7 @@ sv_SV.UTF-8	Sick-sack
 tr_TR.UTF-8	Zik zak
 
 comment:
-text		Five long runs! To avoid writing the same loop five times, we shall use a shortcut! Let's write a procedure which makes the robot race strait forward as far as possible. Then we'll be able to call it several times.
+text		Five long runs! To avoid writing the same loop five times, we shall use a shortcut! Let's write a procedure which makes the robot race straight forward as far as possible. Then we'll be able to call it several times.
 ca_ES.UTF-8	Cinc llargs camins! Per a evitar escriure el mateix cinc vegades, utilitzarem una drecera! Escriurem un procediment que faci que el robot avanci tan lluny com sigui possible. Després, el cridarem diverses vegades.
 cs_CZ.UTF-8	Pět dlouhých chodeb! Vyhneme se psaní stejné smyčky pětkrát a použijeme zkratku. Napiš proceduru, podle které robot poběží tak dlouho rovně jak to bude možné. Potom ji můžeme použít vícekrát.
 da_DK.UTF-8	Fem lange strækninger! For at slippe for at skrive det samme loop fem gange, bruger vi en genvej. Lad os skrive en procedure som som får robotten til at løbe så langt lige frem som muligt. Så kan vi kalde den flere gange.
